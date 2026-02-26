@@ -1,4 +1,3 @@
-# Vending-Machine-Using-cpp
 # Vending Machine — C++ 
 A simple vending machine simulator built in C++ as a beginner project. 
 Based on "Programming: Principles and Practice Using C++" by Bjarne Stroustrup (Ch. 1–5).  
